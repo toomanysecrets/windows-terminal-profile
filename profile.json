@@ -71,14 +71,12 @@
             "hidden": false,
             "name": "PowerShell Core",
             "source": "Windows.Terminal.PowershellCore",
-            "acrylicOpacity" : 0.4,
+            "acrylicOpacity" : 0.75,
             "closeOnExit":true,
-            "colorScheme" : "Solarized Dark",
+            "colorScheme" : "Campbell",
             "commandline" : "pwsh.exe",
-            "cursorColor" : "#FFFFFF",
-            "cursorShape" : "bar",
             "fontFace" : "Cascadia Code PL",
-            "fontSize" : 12,
+            "fontSize" : 11,
             "historySize" : 9001,
             "icon" : "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
             "padding" : "8, 8, 8, 8",
@@ -103,12 +101,6 @@
             "hidden": false,
             "name": "Azure Cloud Shell",
             "source": "Windows.Terminal.Azure"
-        },
-        {
-            "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-            "hidden": false,
-            "name": "PowerShell Core",
-            "source": "Windows.Terminal.PowershellCore"
         },
         {
             "guid": "{d3f31bee-5823-5ed8-8e04-f31ed54f2cd9}",
